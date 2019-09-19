@@ -150,7 +150,7 @@ form {
 }
 @media (max-height: 700px) {
   .bt {
-    top: 75% !important;
+    top: 98% !important;
   }
 
   @media (max-height: 600px) {
